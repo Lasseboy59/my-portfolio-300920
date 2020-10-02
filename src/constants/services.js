@@ -15,7 +15,7 @@ export default [
   },
   {
     id: 3,
-    icon: <FaAndroid className="service-icon" />,
+    icon: <FaCode className="service-icon" />,
     title: "Service Designer",
     text: `I developed Help Desk operations for the access control- and video surveillance systems- product lines by modelling the system platform and to assist the implementation of the chosen system.`,
   },
