@@ -24,7 +24,7 @@ const Hero = () => {
 
   return <header className="hero">
     <div className="section-center hero-center">
-      <acticle className="hero-info">
+      <div className="hero-info">
         <div>
           <div className="underline"></div>
           <h1>I'm Lauri</h1>
@@ -32,7 +32,7 @@ const Hero = () => {
           <Link to="/contact" className="btn">contact me</Link>
           <SocialLinks />
         </div>
-      </acticle>
+      </div>
       <Image fluid={fluid} className="hero-img" />
     </div>
   </header>
